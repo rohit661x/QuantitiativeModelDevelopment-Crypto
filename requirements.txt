@@ -1,6 +1,5 @@
-ccxt
-pandas
+websockets
+aiohttp
 numpy
-matplotlib
-scikit-learn
-jupyter
+numba
+colorama
